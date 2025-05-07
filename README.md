@@ -1,2 +1,3 @@
-# godcode-playground
- God Code interactive playground built with React
+# God Code Playground
+
+Run your divine logic in the browser.
